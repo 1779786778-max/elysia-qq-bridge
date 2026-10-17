@@ -1,4 +1,4 @@
-# QQ ↔ DeepSeek Harness 桥接
+# QQ ↔ DeepSeek Harness 桥接（内容完全来源于网络和ai生成，侵权联系，我会删，请不要用于盈利。我希望爱永存）
 
 **English**: [README.en.md](README.en.md) | **中文**: [README.md](README.md)
 
